@@ -1,0 +1,10 @@
+C:\Users\rafae\OneDrive\Área de Trabalho\Projeto\RADS\RADS.BLL\bin\Debug\RADS.BLL.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\Projeto\RADS\RADS.BLL\bin\Debug\RADS.BLL.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\Projeto\RADS\RADS.BLL\bin\Debug\RADS.DAL.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\Projeto\RADS\RADS.BLL\bin\Debug\RADS.DAL.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\Projeto\RADS\RADS.BLL\bin\Debug\RADS.DAL.dll.config
+C:\Users\rafae\OneDrive\Área de Trabalho\Projeto\RADS\RADS.BLL\obj\Debug\RADS.BLL.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\Projeto\RADS\RADS.BLL\obj\Debug\RADS.BLL.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\Projeto\RADS\RADS.BLL\obj\Debug\RADS.BLL.csproj.Up2Date
+C:\Users\rafae\OneDrive\Área de Trabalho\Projeto\RADS\RADS.BLL\obj\Debug\RADS.BLL.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\Projeto\RADS\RADS.BLL\obj\Debug\RADS.BLL.pdb

@@ -1,0 +1,7 @@
+C:\Users\rafae\OneDrive\Área de Trabalho\Projeto\RADS\RADS.DAL\bin\Debug\RADS.DAL.dll.config
+C:\Users\rafae\OneDrive\Área de Trabalho\Projeto\RADS\RADS.DAL\bin\Debug\RADS.DAL.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\Projeto\RADS\RADS.DAL\bin\Debug\RADS.DAL.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\Projeto\RADS\RADS.DAL\obj\Debug\RADS.DAL.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\Projeto\RADS\RADS.DAL\obj\Debug\RADS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\Projeto\RADS\RADS.DAL\obj\Debug\RADS.DAL.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\Projeto\RADS\RADS.DAL\obj\Debug\RADS.DAL.pdb

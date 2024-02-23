@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Área de Trabalho\Projeto\RADS\RADS.GUI\bin\Debug\RADS.GUI.exe.config
+C:\Users\rafae\OneDrive\Área de Trabalho\Projeto\RADS\RADS.GUI\bin\Debug\RADS.GUI.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\Projeto\RADS\RADS.GUI\bin\Debug\RADS.GUI.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\Projeto\RADS\RADS.GUI\bin\Debug\RADS.BLL.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\Projeto\RADS\RADS.GUI\bin\Debug\RADS.DAL.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\Projeto\RADS\RADS.GUI\bin\Debug\RADS.BLL.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\Projeto\RADS\RADS.GUI\bin\Debug\RADS.DAL.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\Projeto\RADS\RADS.GUI\bin\Debug\RADS.DAL.dll.config
+C:\Users\rafae\OneDrive\Área de Trabalho\Projeto\RADS\RADS.GUI\obj\Debug\RADS.GUI.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\Projeto\RADS\RADS.GUI\obj\Debug\RADS.GUI.Properties.Resources.resources
+C:\Users\rafae\OneDrive\Área de Trabalho\Projeto\RADS\RADS.GUI\obj\Debug\RADS.GUI.csproj.GenerateResource.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\Projeto\RADS\RADS.GUI\obj\Debug\RADS.GUI.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\Projeto\RADS\RADS.GUI\obj\Debug\RADS.GUI.csproj.Up2Date
+C:\Users\rafae\OneDrive\Área de Trabalho\Projeto\RADS\RADS.GUI\obj\Debug\RADS.GUI.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\Projeto\RADS\RADS.GUI\obj\Debug\RADS.GUI.pdb
